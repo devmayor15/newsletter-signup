@@ -1,4 +1,4 @@
-## Live url [here](https://devmayor15.github.io/newsletter).
+## Live url [here](https://devmayor15.github.io/newsletter-signup).
 
 # Getting Started with Create React App
 
